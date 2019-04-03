@@ -1,10 +1,11 @@
 #include <stdio.h>
 
 int main () {
-  !;
-  
-  [235];
-  
+  int a;
+  if(!(a < 0)) {
+      int ([235];
+  }
+
   &&;
   
   490;
