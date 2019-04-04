@@ -2,8 +2,9 @@
 
 int main () {
   int a;
+  int b[1];
   if(!(a < 0)) {
-      int ([235];
+      b[0] = 235;
   }
 
   &&;
