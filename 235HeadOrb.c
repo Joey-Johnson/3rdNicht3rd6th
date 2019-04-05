@@ -1,33 +1,26 @@
 #include <stdio.h>
+#include <math.h>
 
 int main () {
   int a;
-  int b[1];
-  if(!(a < 0)) {
-      b[0] = 235;
-  }
+  int b[236];
+  int into;
+  if(!(a < 0))
+      b[235] = 0;
 
-  &&;
+  if(a < 0 && b[0] < 0) 
+    b[0] = 490;
   
-  490;
-  
-  !;
-  
-  &&;
-  
-  do {
-      ||;
-      
-      &&;
-      
-      190.;
-      
-      case || ||;
-      
-      6;
-      
-      log(into\n 10 5. 21);
-      
+  if(!(a < 0) && b[0] < 0)
+    do {
+      if((a < 0 || b[0] < 0) && b[1] < 0)
+      b[0] = 190.;
+      switch(a) {
+          case a < 0 || b[0] < 0 || 6:
+          log(into); 
+          10 5. 21;
+      }
+
       if(almost(), feels(), they() && ! && I(), also()) {
           readf("I again project");
           self(), yes();
