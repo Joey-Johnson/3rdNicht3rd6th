@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <math.h>
 
+void almost(void);
+void feels(void);
+int they(void);
+
 int main () {
   int a;
   int b[236];
@@ -18,7 +22,9 @@ int main () {
       switch(a) {
           case a < 0 || b[0] < 0 || 6:
           log(into); 
-          10 5. 21;
+          a = 10;
+          b[0] = 5.;
+          b[1] = 21;
       }
 
       if(almost(), feels(), they() && ! && I(), also()) {
@@ -49,4 +55,16 @@ int main () {
   }
   
   return 0;
+}
+
+void almost(void) {
+    int c;
+}
+
+void feels(void) {
+    int d;
+}
+
+int they(void) {
+    return 0;
 }
