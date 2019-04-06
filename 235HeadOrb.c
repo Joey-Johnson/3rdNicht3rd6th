@@ -4,11 +4,17 @@
 void almost(void);
 void feels(void);
 int they(void);
+int I(void);
+int also(void);
+int read(void);
+void self(void);
+void yes(void);
 
 int main () {
   int a;
   int b[236];
   int into;
+  
   if(!(a < 0))
       b[235] = 0;
 
@@ -27,10 +33,10 @@ int main () {
           b[1] = 21;
       }
 
-      if(almost(), feels(), they() && ! && I(), also()) {
-          readf("I again project");
+      if(almost(), feels(), they() && !(a < 0 && I()), also(), read()) {
           self(), yes();
-      > if(! \n FILE long chat) {
+      if(a > b[0] && !a) {
+          FILE g = (long)chat;
           for() {
               if() {
                  ! ! NULL 14 !;  
@@ -67,4 +73,24 @@ void feels(void) {
 
 int they(void) {
     return 0;
+}
+
+int I(void) {
+    return 0;
+}
+
+int also(void) {
+    return 0;
+}
+
+int read(void) {
+    return 0;
+}
+
+void self(void) {
+    int e;
+}
+
+void yes(void) {
+    int f;
 }
