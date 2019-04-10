@@ -36,12 +36,18 @@ int main () {
       if(almost(), feels(), they() && !(a < 0 && I()), also(), read()) {
           self(), yes();
       if(a > b[0] && !a) {
-          FILE g = (long)chat;
-          for() {
-              if() {
-                 ! ! NULL 14 !;  
+          FILE g;
+          long chat;
+          for(a = 0; a < 0; a++) {
+              if(b[0] < 0) {
+                 if(!a && !b[0]) {
+                     NULL;
+                     do {
+                         a = 14;
+                     } while(!a);
+                 }
               }
-              && && && 1 && && && && *** && !;
+              && a < 0 && && 1 && && && && *** && !;
               long 10;
               do {
                   && 1;
