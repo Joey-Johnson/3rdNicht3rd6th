@@ -35,7 +35,6 @@ int main () {
           b[0] = 5.;
           b[1] = 21;
       }
-
       if(almost(), feels(), they() && !(a < 0 && I()), also(), read()) {
           self(), yes();
       if(a > b[0] && !a) {
@@ -54,15 +53,14 @@ int main () {
                   a = 1;
                   if(b[1] < 0 && b[0] < 0 && a) {
                       if(b < 0 && a && b[1]) {
-                          int *a,** b;
+                          int *a,g = ** b;
                           if(a < 0 && b[1])
                           if(!(a < 0)) {
-                              a = 0;
+                              chat = 0;
                           }
                       }
                   }
               }
-
               long h = 10;
               do {
                   if(b[0] && a) {
@@ -76,10 +74,10 @@ int main () {
                   if(a || (b[1] && b[0])) {
                       a = 0;
                   }
-                  if(a < 0) {
+                  if(chat < 0) {
                       b[0] = 0;
                   } 
-              } while(a < 0);
+              } while(h < 0);
           }
       }
     }
