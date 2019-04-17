@@ -9,6 +9,9 @@ int also(void);
 int read(void);
 void self(void);
 void yes(void);
+int absolutely(void);
+void another(void);
+int it(void);
 
 int main () {
   int a;
@@ -65,16 +68,18 @@ int main () {
                   if(b[0] && a) {
                       a = 1;
                   }
-                  char now;
-              }
-              absolutely();
+                  a = (char)a;
+              } while(absolutely());
               do {
                   another();
-                  it(). || &&;
-                  if() {
-                      
+                  a = it()*a;
+                  if(a || (b[1] && b[0])) {
+                      a = 0;
                   }
-              }
+                  if(a < 0) {
+                      b[0] = 0;
+                  } 
+              } while(a < 0);
           }
       }
     }
@@ -113,4 +118,16 @@ void self(void) {
 
 void yes(void) {
     int f;
+}
+
+int absolutely(void) {
+    return 0;
+}
+
+void another(void) {
+    int h;
+}
+
+int it(void) {
+    return 0;
 }
