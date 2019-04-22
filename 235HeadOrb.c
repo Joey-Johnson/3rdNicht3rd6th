@@ -38,7 +38,7 @@ int main () {
       if(almost(), feels(), they() && !(a < 0 && I()), also(), read()) {
           self(), yes();
       if(a > b[0] && !a) {
-          FILE g;
+          int g;
           long chat;
           for(a = 0; a < 0; a++) {
               if(b[0] < 0) {
@@ -53,7 +53,9 @@ int main () {
                   a = 1;
                   if(b[1] < 0 && b[0] < 0 && a) {
                       if(b < 0 && a && b[1]) {
-                          int *a,g = ** b;
+                          int *a;
+                          int *b = &b[0];
+                          int **g = &b;
                           if(a < 0 && b[1])
                           if(!(a < 0)) {
                               chat = 0;
