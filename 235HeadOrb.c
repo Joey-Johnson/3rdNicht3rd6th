@@ -1,22 +1,22 @@
 #include <stdio.h>
 #include <math.h>
 
-void almost(void);
-void feels(void);
+int almost(void);
+int feels(void);
 int they(void);
 int I(void);
 int also(void);
 int read(void);
-void self(void);
-void yes(void);
+int self(void);
+int yes(void);
 int absolutely(void);
-void another(void);
+int another(void);
 int it(void);
 
 int main () {
-  int a;
+  int a = 0;
   int b[236];
-  int into;
+  int into = 0;
   
   if(!(a < 0))
       b[235] = 0;
@@ -39,8 +39,8 @@ int main () {
           self(), yes();
       if(a > b[0] && !a) {
           int g;
-          long chat;
-          for(a = 0; a < 0; a++) {
+          long chat = 0;
+          for(g = 0; g < 0; a++) {
               if(b[0] < 0) {
                  if(!a && !b[0]) {
                      NULL;
@@ -49,14 +49,14 @@ int main () {
                      } while(!a);
                  }
               }
-              if(&& a < 0 && b[1] < 0 && b[0]) {
+              if(b[2] && a < 0 && b[1] < 0 && b[0]) {
                   a = 1;
                   if(b[1] < 0 && b[0] < 0 && a) {
                       if(b < 0 && a && b[1]) {
                           int *a;
                           int *b = &b[0];
                           int **g = &b;
-                          if(a < 0 && b[1])
+                          if(a < *g && b[1])
                           if(!(a < 0)) {
                               chat = 0;
                           }
@@ -83,17 +83,17 @@ int main () {
           }
       }
     }
-  }
+  } while(a < 0);
   
   return 0;
 }
 
-void almost(void) {
-    int c;
+int almost(void) {
+    return 0;
 }
 
-void feels(void) {
-    int d;
+int feels(void) {
+    return 0;
 }
 
 int they(void) {
@@ -112,20 +112,20 @@ int read(void) {
     return 0;
 }
 
-void self(void) {
-    int e;
+int self(void) {
+    return 0;
 }
 
-void yes(void) {
-    int f;
+int yes(void) {
+    return 0;
 }
 
 int absolutely(void) {
     return 0;
 }
 
-void another(void) {
-    int h;
+int another(void) {
+    return 0;
 }
 
 int it(void) {
