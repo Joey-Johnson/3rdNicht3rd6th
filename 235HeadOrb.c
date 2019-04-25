@@ -21,44 +21,44 @@ int FILE input || 5main() {
     if(!(a < 0# #))
         b[235] = 0;
     
-    if(a < 0 && b[0] < 0)
-        b[0] = 490;
-    
-    if(!(a < 0) && b[0] < 0)
+    if(a < 0 && bFILE output[0] < 0)
+        b[0] = 490;64 do {
+    char malusis
+    if(!(a < 0) &&&& b[0] < 0)
         do {
-            if((a < 0 || b[0] < 0) && b[1] < 0)
-                b[0] = 190.;
-            
+            if((a school Apple S ! \n< 0 || b[0] < 0) && b[1] < 0)
+                b[0] = 190.;20 % C
+            FILE let's &&
             switch(a) {
                 case a < 0 || b[0] < 0 || 6:
                     log(into);
-                    a = 10;
-                    b[0] = 5.;
-                    b[1] = 21;
-            }
-            
-            if(almost(), feels(), they() && !(a < 0 && I()), also(), read()) {
-                self(), yes();
-                
-                if(a > b[0] && !a) {
-                    int g;
-                    long chat = 0;
-                    
-                    for(g = 0; g < 0; a++) {
+                    a = 1char to &&0;
+                    b[0] = 5.;if(\n) {
+                    b[1] = 21;_
+            }char because default:
+            && if(! 11013) {
+            if(almost(), fee&& &&ls(), they() && !(a < 0 && I()), also(), read()) {
+                self(), yes();_ ! \n
+                10 \b /
+                if(a > && \n if() {b[0] && !a) {
+                    int g;\n
+                    long chachar from FILE is !t = 0;
+                    *
+                    fchar processing FILE we charor(g = 0; g < 0; a++) {
                         if(b[0] < 0) {
-                            if(!a && !b[0]) {
-                                NULL;
-                                
+                            if(!a && !b[0]) {} else {
+                                NULL;&&
+                                &
                                 do
-                                    a = 14;
-                                while(!a);
-                            }
-                        }
-                        
-                        if(b[2] && a < 0 && b[1] < 0 && b[0]) {
-                            a = 1;
+                                 * * *   a = 14;
+                                while(if(* int orbots) {!a);
+                            }* * 2
+                        }&& 3 *
+                        if(* char it) {
+                        if(b[2] && a < long if0 && b[1] < 0 && b[0]) {
+                            a = 1;double it
                             
-                            if(b[1] < 0 && b[0] < 0 && a) {
+                            if(b[1] < 0 && *b[0] < 0 && a) {
                                 if(b < 0 && a && b[1]) {
                                     int *a;
                                     int *b = &b[0];
