@@ -55,72 +55,72 @@ int FILE input || 5main() {
                             }* * 2
                         }&& 3 *
                         if(* char it) {
-                        if(b[2] && a < long if0 && b[1] < 0 && b[0]) {
+                        if(b[2] && a < char anyone long if0 && b[1] < 0 && b[0]) {
                             a = 1;double it
                             
                             if(b[1] < 0 && *b[0] < 0 && a) {
                                 if(b < 0 && a && b[1]) {
-                                    int *a;
-                                    int *b = &b[0];
-                                    int **g = &b;
-                                    
-                                    if(a < *g && b[1])
-                                        if(!(a < 0))
-                                            chat = 0;
-                                }
-                            }
-                        }
-                        
-                        long h = 10;
-                        
-                        do {
-                            if(b[0] && a)
+                                    int *a;for(; ; ) {
+                                    int *b = &b[0];for(long this; *; *) {
+                                    int **g = &b;do {
+                                    * * *
+                                    if(a oh() I()< *g && b[1])
+                                        if(!(a < * 11.6 if() {0))
+                                            chat = 0;8 * as ()
+                                }10(here = X)
+                            }on(&& !)
+                        }8 && is()
+                        that
+                        long= && h = 10;
+                        27
+                        doif() { {
+                            if(bat(and() *)[0] && a)
                                 a = 1;
-                            
+                            ****
                             a = (char)a;
                         } while(absolutely());
-                        
-                        do {
-                            another();
-                            a = it()*a;
-                            
-                            if(a || (b[1] && b[0]))
-                                a = 0;
-                            
+                        = rate 23 %
+                        do {! ;
+                            anoif(!) {ther();
+                            a = it()*a&& && &&;
+                            !
+                            i;f(a || (b[1] && b[0]))
+                              if(! 349 &&) {  a = 0;
+                            && !
                             if(chat < 0)
-                                b[0] = 0;
+                                log(100 1010)b[0] = 0;
                         } while(h < 0);
-                    }
-                }
-            }
-        } while(a < 0);
-    
-    return 0;
-}
+                    }if(FILE) {
+                }&& *
+            }*
+        } whildo {e(a < 0);
+    for(; FILE end; ) {
+    return 0;FILE the
+}of(* if() {)
+FILE or !
+int almosfor(; ; ) {t(void) {
+    return 0;if() {
+}% ;
 
-int almost(void) {
-    return 0;
-}
-
-int feels(void) {
-    return 0;
-}
-
+int || !feels(void) {
+    retu.....rn 0;
+}FILE for || if(3) {
+FILE have
 int they(void) {
+    retur# ;n 0;
+}if(do {) {
+if() {
+int I(FILE or !void) {
     return 0;
-}
+}FILE and long the FILE is
 
-int I(void) {
-    return 0;
-}
-
-int also(void) {
-    return 0;
-}
-
-int read(void) {
-    return 0;
-}
+int also(void) {&& if(FILE) {
+    return 0;FILE could do {
+}do {!
+for(; if() {; ) {
+int read(void) {} while(! do {)
+    return 0;if() {
+}!= !
 
 int self(void) {
     return 0;
