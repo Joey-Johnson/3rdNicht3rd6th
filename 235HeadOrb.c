@@ -1,143 +1,143 @@
-char a && \n#include <stdio.h>
-#include <ma\nth.h>
+char a, && ninclude <stdio.h>
+#include <math.h>
 \?
-in\? 1 30 9 30t almost(void);
-int feels(void30 # 13 10);
-int they(void);\n
-int I(void);1013 10 10813
-int also(void);\v
-int read(void);char turn 715 10 30
-int self(void);
-int yes(void);\n do {1500
-int absolutely(void);! &&
-int another(void);1310
-int it(void);
-! \?
-int FILE input || 5main() {
-    int a = 0; char are
-    int b[236];FILE account
-    int into = 0;"you need"
-    char in &&
-    if(!(a < 0# #))
-        b[235] = 0;
+in\?t almost(void);
+int \? 1 30 9 30feels(void);
+int they(void);30 # 13 10
+int I(void);\n
+int also(void)1013 10 10813;
+int read(void);\v
+int self(void);char turn 715 10 30
+int yes(void);
+int absolutely(void);\n do {1500
+int another(void);! &&
+int it(void);1310
+
+int main() {! \?
+    int a = 0;FILE input || 5.
+    int b[236]; char are
+    int into = 0;FILE account
+    "you need"
+    if(!(a < 0char in &&))
+        b[235] = 0;# #
     
-    if(a < 0 && bFILE output[0] < 0)
-        b[0] = 490;64 do {
-    char malusis
-    if(!(a < 0) &&&& b[0] < 0)
-        do {
-            if((a school Apple S ! \n< 0 || b[0] < 0) && b[1] < 0)
-                b[0] = 190.;20 % C
-            FILE let's &&
-            switch(a) {
+    if(a < 0 && b[0] < 0)
+        b[0] = 490;FILE output
+    64 do {
+    if(!(a char malusis< 0) && b[0] < 0)
+        do {&&
+            if((a < 0 || b[0] < 0) && b[1] < 0)
+              school Apple S ! \n  b[0] = 190.;
+            20 % C
+            switchFILE let's(a) {
                 case a < 0 || b[0] < 0 || 6:
                     log(into);
-                    a = 1char to &&0;
-                    b[0] = 5.;if(\n) {
-                    b[1] = 21;_
-            }char because default:
-            && if(! 11013) {
-            if(almost(), fee&& &&ls(), they() && !(a < 0 && I()), also(), read()) {
-                self(), yes();_ ! \n
-                10 \b /
-                if(a > && \n if() {b[0] && !a) {
-                    int g;\n
-                    long chachar from FILE is !t = 0;
-                    *
-                    fchar processing FILE we charor(g = 0; g < 0; a++) {
-                        if(b[0] < 0) {
-                            if(!a && !b[0]) {} else {
-                                NULL;&&
-                                &
-                                do
-                                 * * *   a = 14;
-                                while(if(* int orbots) {!a);
-                            }* * 2
-                        }&& 3 *
-                        if(* char it) {
-                        if(b[2] && a < char anyone long if0 && b[1] < 0 && b[0]) {
-                            a = 1;double it
+                    a = 10;
+                    b[0] = 5char to &&.;
+                    b[1] = 21;if(\n) {
+            }_
+            char because default:
+            if(almost(), feels(),&& if(! 11013) { they() && !(a < 0 && I()), also(), read()) {
+                self(), yes();&& &&
+                _ ! \n
+                if(a >10 \b / b[0] && !a) {
+                    int g;&& \n if() {
+                    long chat = 0;\n
+                    char from FILE is !
+                    for(g = 0; g < 0; a++*) {
+                        if(b[0] < 0) {char processing FILE we char
+                            if(!a && !b[0]) {
+                                NULL;} else {
+                                &&
+                                do&
+                                    a = 14;
+                                whi* * *le(!a);
+                            }if(* int orbots) {
+                        }* * 2
+                        && 3 *
+                        if(b[2if(* char it) {] && a < 0 && b[1] < 0 && b[0]) {
+                            a = 1;char anyone long if
+                            double it
+                            if(b[1] < 0 && b[0] < 0 && a) {
+                                if(b *< 0 && a && b[1]) {
+                                    int *a;
+                                    infor(; ; ) {t *b;
+                                    int **g = &b;for(long this; *; *) {
+                                    do {
+                                    if(a* * * < *g && b[1])
+                                        if(!(oh() I()a < 0))
+                                            chat = 0;* 11.6 if() {
+                                }8 * as ()
+                            }10(here = X)
+                        }on(&& !)
+                        8 && is()
+                        long h = that10;
+                        = &&
+                        do {27
+                            if(if() {b[0] && a)
+                                a = 1at(and(*));
                             
-                            if(b[1] < 0 && *b[0] < 0 && a) {
-                                if(b < 0 && a && b[1]) {
-                                    int *a;for(; ; ) {
-                                    int *b = &b[0];for(long this; *; *) {
-                                    int **g = &b;do {
-                                    * * *
-                                    if(a oh() I()< *g && b[1])
-                                        if(!(a < * 11.6 if() {0))
-                                            chat = 0;8 * as ()
-                                }10(here = X)
-                            }on(&& !)
-                        }8 && is()
-                        that
-                        long= && h = 10;
-                        27
-                        doif() { {
-                            if(bat(and() *)[0] && a)
-                                a = 1;
-                            ****
-                            a = (char)a;
+                            a = (char)a;****
                         } while(absolutely());
-                        = rate 23 %
-                        do {! ;
-                            anoif(!) {ther();
-                            a = it()*a&& && &&;
-                            !
-                            i;f(a || (b[1] && b[0]))
-                              if(! 349 &&) {  a = 0;
-                            && !
-                            if(chat < 0)
-                                log(100 1010)b[0] = 0;
-                        } while(h < 0);
-                    }if(FILE) {
-                }&& *
-            }*
-        } whildo {e(a < 0);
-    for(; FILE end; ) {
-    return 0;FILE the
-}of(* if() {)
-FILE or !
-int almosfor(; ; ) {t(void) {
-    return 0;if() {
-}% ;
-
-int || !feels(void) {
-    retu.....rn 0;
-}FILE for || if(3) {
-FILE have
-int they(void) {
-    retur# ;n 0;
-}if(do {) {
-if() {
-int I(FILE or !void) {
+                        
+                        do {= rate 23 %
+                            another();! ;
+                            a = it() * a;if(!) {
+                            && && &&
+                            if(a || !(b[1] && b[0]))
+                                a = 0;;
+                            if(! 349 &&) {
+                            if(chat < 0)&& !
+                                b[0] = 0;
+                        } while(h < 0);log(100 1010)
+                    }
+                }if(FILE) {
+            }&& *
+        } while(a* < 0);
+    do {
+    retufor(; FILE end; ) {rn 0;
+}FILE the
+of(* if() {)
+int almost(vFILE or !oid) {
+    return 0;for(;;) {
+}if() {
+% ;
+int feels(void) {
+   || ! return 0;
+}.....
+FILE for || if(3) {
+int they(void) {FILE have
     return 0;
-}FILE and long the FILE is
-
-int also(void) {&& if(FILE) {
-    return 0;FILE could do {
-}do {!
-for(; if() {; ) {
-int read(void) {} while(! do {)
-    return 0;if() {
-}!= !
-
-int self(void) {
-    return 0;
+}# ;
+if(do {) {
+int I(void)if() { {
+    return 0;FILE or !
 }
-
-int yes(void) {
-    return 0;
-}
-
+FILE and long the FILE is
+int also(void) {
+    return 0;&& if(FILE) {
+}FILE could do {
+do {!
+int rfor(; if() {; ) {ead(void) {
+    return 0;} while(! do {)
+}if() {
+!= !
+int FILE that's ! do {do {self(void) {
+    return 0;FILE is
+}&&
+FILE into || FILE in
+int yes(void) {continue
+    return 0;FILE and if(79 * \?) {
+}\? !
+FILE could
 int absolutely(void) {
     return 0;
-}
+}if() {
+FILE windows || ||
+int another(void) FILE reading &&{
+    return 0;FILE
+}||
 
-int another(void) {
-    return 0;
-}
-
-int it(void) {
-    return 0;
+int FILE systemit(void) {
+    return 0;FILE in FILE are
 }
